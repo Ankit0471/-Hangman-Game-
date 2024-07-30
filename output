@@ -1,0 +1,91 @@
+Choose mode (single/multi):  single
+Choose a category:
+1. Animals
+2. Countries
+3. Movies
+Enter the number of your choice:  1
+Choose a difficulty level:
+1. Easy (10 incorrect guesses)
+2. Medium (6 incorrect guesses)
+3. Hard (4 incorrect guesses)
+Enter the number of your choice:  1
+_ _ _ _ _ _ _ _
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  a
+_ _ _ _ _ A _ _
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  hint
+Hint: The word contains the letter 'E'.
+E _ E _ _ A _ _
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  hint
+Hint: The word contains the letter 'N'.
+E _ E _ _ A N _
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  l
+E L E _ _ A N _
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  p
+E L E P _ A N _
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  h
+E L E P H A N _
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  t
+Congratulations! You've won!
